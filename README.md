@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript**
 <P>
-    - 📫 How to reach me **jenishkr.gupta@gmail.com**
+- 📫 How to reach me **jenishkr.gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
