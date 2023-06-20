@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jenish Kumar</h1>
-<h3 align="center">A student in Techno International New Town having interest in frontend development.</h3>
+<h3 align="center">A student in Techno International New Town having an interest in frontend development.</h3>
 <img align ="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenishkr&label=Profile%20views&color=0e75b6&style=flat" alt="jenishkr" /> </p>
 
 
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript**
-<P>
+
 - 📫 How to reach me **jenishkr.gupta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
