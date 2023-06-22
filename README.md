@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript**
+- 🌱 I’m currently learning **HTML,CSS,C,JavaScript**
 
 - 📫 How to reach me **jenishkr.gupta@gmail.com**
 
