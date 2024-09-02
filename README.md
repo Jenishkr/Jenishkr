@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **HTML,CSS,JavaScript**
 <P>
     - 📫 How to reach me **jenishkr.gupta@gmail.com**
+    <a href="mailto:jenishkr.gupta@gmail.com" style="user-select: auto;">jenishkr.gupta@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
