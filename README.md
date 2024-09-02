@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jenish Kumar</h1>
-<h3 align="center">A student in Techno International New Town having interest in Software development.</h3>
+<h3 align="center">A Student in Techno International New Town having interest in Software development.</h3>
 <img align ="right" alt="Coder GIF" height=250 width=350 src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenishkr&label=Profile%20views&color=0e75b6&style=flat" alt="jenishkr" /> </p>
 
