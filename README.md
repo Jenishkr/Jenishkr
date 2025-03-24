@@ -7,7 +7,7 @@
 - 💬 Ask me about MERN
 - 🌱 I’m currently learning **Spring Boot**
 <P>
-    - 📫 How to reach me 
+- 📫 How to reach me 
     <a href="mailto:jenishkr.gupta@gmail.com" style="user-select: auto;">jenishkr.gupta@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
