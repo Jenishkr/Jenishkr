@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenishkr&label=Profile%20views&color=0e75b6&style=flat" alt="jenishkr" /> </p>
 
 
-
-- 🌱 I’m currently learning **JAVA**
+- 💬 Ask me about MERN
+- 🌱 I’m currently learning **Spring Boot**
 <P>
     - 📫 How to reach me 
     <a href="mailto:jenishkr.gupta@gmail.com" style="user-select: auto;">jenishkr.gupta@gmail.com</a>
