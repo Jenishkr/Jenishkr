@@ -14,6 +14,7 @@
 <a href="https://www.facebook.com/jenish.gupta.6880?mibextid=ZbWKwL " target="blank"><img align="center" <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" height="30" width="40" /></a>
 <a href="https://instagram.com/guptajenish?igshid=MzRlODBiNWFlZA== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptajenish" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jenish-kumar-b9a729222 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jenish Kumar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jenish_kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jenish_kumar" height="30" width="40" /></a>
 
 </p>
 
