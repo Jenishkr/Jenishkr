@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://www.facebook.com/jenish.gupta.6880?mibextid=ZbWKwL " target="blank"><img align="center" <img src="https://www.facebook.com/images/fb_icon_325x325.png" alt="Facebook Logo" height="30" width="40" /></a>
 <a href="https://instagram.com/guptajenish?igshid=MzRlODBiNWFlZA== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptajenish" height="30" width="40" /></a>
-<a href="https://twitter.com/jenishgupta3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seriousl____ly" height="30" width="40" /></a>
+<a href="https://twitter.com/jenishgupta3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jenishgupta" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@jenishkumar#9485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jenishkumar" height="30" width="40" /></a>
 </p>
 <p>
 <a href="https://www.linkedin.com/in/jenish-kumar-b9a729222 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jenish Kumar" height="30" width="40" /></a>
