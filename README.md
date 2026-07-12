@@ -50,10 +50,10 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
+<h3 align="center">GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=Jenishkr&theme=radical&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jenishkr&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenishkr&layout=compact&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=jenishkr&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br>
+  <img src="https://streak-stats.demolab.com/?user=jenishkr&theme=dark&hide_border=false" /><br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jenishkr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
