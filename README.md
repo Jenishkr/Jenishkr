@@ -51,9 +51,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jenishkr&show_icons=true&locale=en&layout=compact" alt="Jenishkr" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Jenishkr&theme=radical&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jenishkr&show_icons=true&locale=en" alt="Jenishkr" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jenishkr&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jenishkr&" alt="Jenishkr" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jenishkr&layout=compact&theme=radical)
 
